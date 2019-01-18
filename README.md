@@ -65,8 +65,9 @@ blynk.run()
 
 ## Installation
 
+Try the following but let us know if it fails
 ```sh
-pip install blynk-library-python
+pip install -e git+git://github.com/pieman64/blink-library-python.git@master#egg=blynk-library-python
 ```
 
 ## Features
