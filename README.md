@@ -2,8 +2,10 @@
 
 **Warning:** Work in progress. Code reviews and contributions are more than welcome!
 
-[![GitHub version](https://img.shields.io/github/release/vshymanskyy/blynk-library-python.svg)](https://github.com/vshymanskyy/blynk-library-python/releases/latest)
-[![GitHub download](https://img.shields.io/github/downloads/vshymanskyy/blynk-library-python/total.svg)](https://github.com/vshymanskyy/blynk-library-python/releases/latest)
+This is our fork to version **0.1.5**
+
+[![GitHub version](https://img.shields.io/badge/release-v0.1.5-blue.svg)](https://github.com/pieman64/blynk-library-python/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/vshymanskyy/blynk-library-python/total.svg)](https://github.com/pieman64/blynk-library-python/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/vshymanskyy/blynk-library-python.svg)](https://github.com/vshymanskyy/blynk-library-python/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/vshymanskyy/blynk-library-python.svg)](https://github.com/vshymanskyy/blynk-library-python/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/vshymanskyy/blynk-library-python/blob/master/LICENSE)
